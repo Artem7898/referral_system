@@ -15,6 +15,7 @@
     • Документирование апи при помощи ReDoc
     • Dockerfile:
 
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
 
 
 
