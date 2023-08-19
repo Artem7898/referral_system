@@ -1,0 +1,13 @@
+<form class="registration-form" method="post" action="{% url 'referrals:register' %}">
+    {% csrf_token %}
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required>
+    <button type="submit">Register</button>
+    <label for="phone_number">Phone Number:</label>
+    <input type="text" id="phone_number" name="phone_number" required><br>
+    <label for="invite_code">Invite Code:</label>
+    <input type="text" id="invite_code" name="invite_code" required><br>
+</form>
+
