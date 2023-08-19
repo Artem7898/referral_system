@@ -15,10 +15,14 @@
     • Документирование апи при помощи ReDoc
     • Dockerfile:
 
-![Image alt](https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-07-08.png
+![Image alt](https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-07-08.png 
+
 ![Image alt]https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-08-15.png
+
 ![Image alt]https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-08-46.png
+
 ![Image alt]https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-09-10.png
+
 ![Image alt]https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-09-42.png
 
 
