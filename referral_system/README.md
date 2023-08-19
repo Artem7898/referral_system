@@ -16,6 +16,5 @@
     • Dockerfile:
 
 
-    ![Снимок экрана от 2023-08-19 18-07-08](https://github.com/Artem7898/referral_system/assets/60553304/ec3b5b6b-c840-4dc5-97ce-757529f6db9c)
 
 
