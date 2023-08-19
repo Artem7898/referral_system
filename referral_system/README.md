@@ -13,4 +13,5 @@
 Опционально:
     • Интерфейс на Django Templates 
     • Документирование апи при помощи ReDoc
-    • Docker
+    • Dockerfile:///home/artem/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/InShot_20230819_174956551.mp4
+
