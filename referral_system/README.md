@@ -15,7 +15,7 @@
     • Документирование апи при помощи ReDoc
     • Dockerfile:
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Artem7898/referral_system/blob/main/referral_system/Снимок%20экрана%20от%202023-08-19%2018-07-08.png
 
 
 
