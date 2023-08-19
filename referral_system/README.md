@@ -13,5 +13,9 @@
 Опционально:
     • Интерфейс на Django Templates 
     • Документирование апи при помощи ReDoc
-    • Dockerfile:///home/artem/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/InShot_20230819_174956551.mp4
+    • Dockerfile:
+
+
+    ![Снимок экрана от 2023-08-19 18-07-08](https://github.com/Artem7898/referral_system/assets/60553304/ec3b5b6b-c840-4dc5-97ce-757529f6db9c)
+
 
